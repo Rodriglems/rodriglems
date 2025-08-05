@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Rodriglems</h1>
 
-<p align="center">
+<p align="left">
 🎓 Estudante de Engenharia de Software <br>
 🖥️ Técnico em Informática & Agropecuária – CTT/UFPI <br>
 🌱 Apaixonado por tecnologia, inovação e aprendizado contínuo <br>
