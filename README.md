@@ -24,16 +24,6 @@
 
 </div>
 
----
-
-## 🚀 Projetos em destaque
-
-- 🔧 **MotoService** – Sistema de gestão de serviços para oficina mecânica
-- 🌾 **Irrigação Inteligente** – Sistema automatizado com sensores, LoRa e energia solar
-- 🧠 **J.A.R.V.I.S Pessoal** – Assistente virtual com reconhecimento de palavra-chave e controle via terminal
-
----
-
 ## 📈 Minhas estatísticas no GitHub
 
 <p align="center">
