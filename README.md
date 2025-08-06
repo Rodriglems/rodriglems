@@ -49,6 +49,9 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-![snake gif](https://github.com/Rodriglems/Rodriglems/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake de Contribuições
+
+![snake gif](https://github.com/Rodriglems/Rodriglems/blob/output/dist/snake.svg)
+
 
 ###
